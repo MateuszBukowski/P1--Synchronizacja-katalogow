@@ -1,0 +1,65 @@
+# sourceList = ["Source 01", "Source 02"]
+# destList = ["Destination 01", "Destination 02"]
+
+
+# Print content of each row
+# print()
+# print("Source 01:", source01)
+# print(source01)
+# print("Destination 01:")
+# print(destination01)
+# print("Source 02:")
+# print(source02)
+# print("Destination 02:")
+# print(destination02)
+# print("###################################")
+
+# Listy
+# sourceList[0] = source01
+# destList[0] = destination01
+# sourceList[1] = source02
+# destList[1] = destination02
+#
+# print("Katalogi źródłowe: ")
+# print(sourceList[0])
+# print(sourceList[1])
+# print(sourceList)
+# print()
+# print("Katalogi docelowe: ")
+# print(destList[0])
+# print(destList[1])
+# print(destList)
+
+# ---------------------------------------------------------
+
+# print()
+# print("############################### Source ###################################################################")
+# for folderName, subfolders, filenames in os.walk(src01):
+#     print('Katalog bieżący to ' + folderName)
+#     for subfolder in subfolders:
+#         print('PODKATALOG KATALOGU ' + folderName + ': ' + subfolder)
+#         NumberOfSubDirsSRC += 1
+#     for filename in filenames:
+#         print('PLIK KATALOGU ' + folderName + ': ' + filename)
+#         NumberOfFilesSRC += 1
+#
+# print("Liczba podkatalogów: ", NumberOfSubDirsSRC)
+# print("Liczba plików: ", NumberOfFilesSRC)
+# print()
+# print("############################### Destination ##############################################################")
+#
+# for folderName, subfolders, filenames in os.walk(dst01):
+#     print('Katalog bieżący to ' + folderName)
+#     for subfolder in subfolders:
+#         print('PODKATALOG KATALOGU ' + folderName + ': ' + subfolder)
+#         NumberOfSubDirsDST += 1
+#     for filename in filenames:
+#         print('PLIK KATALOGU ' + folderName + ': ' + filename)
+#         NumberOfFilesDST += 1
+#
+# print("Liczba podkatalogów: ", NumberOfSubDirsDST)
+# print("Liczba plików: ", NumberOfFilesDST)
+# print()
+# print("############################### END ##############################################################")
+
+# Close file

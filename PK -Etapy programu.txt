@@ -1,0 +1,119 @@
+I. Ekran g³ówny
+
+Witaj!
+Wybierz co chcesz zrobiæ:
+(1) SYMULACJA synchronizacji katalogów.
+(2) SYNCHRONIZACJA katalogów.
+
+*********************************************
+
+II. Wybór (1) - SYMULACJA
+
+Dostêpne dyski w systemie:
+(1) C: (Local Disk)
+(2) G: (Toshiba-3TB)
+(3) H: (ADATA HD720) 
+
+------------------------------------------
+Wybierz katalog RODLOWY (1,2,3):
+3
+
+------------------------------------------
+Wybierz katalog DOCELOWY (1,2,3):
+2
+
+------------------------------------------
+Wybierz co symulowaæ z istniej¹cymi docelowymi plikami:
+(a) Pomiñ wszystkie 
+(b) Nadpisz wszystkie
+(c) Nadpisz starsze
+(d) Nadpisz je¿eli ró¿ni siê rozmiar
+
+------------------------------------------
+Wybór (a) - Pomiñ wszystkie
+==========================================
+Skanujê ...
+
+------------------------------------------
+G: (Toshiba-3TB) - katalog Ÿród³owy:
+- 35 katalogów
+- 4500 plików 
+
+H: (ADATA HD720) - katalog docelowy
+- 37 katalogów
+- 4000 plików 
+
+SYMULACJA wykonania operacji:
+Pominiete zosta³o kopiowanie 35 katalogów.
+Pominiete zosta³o kopiowanie 4000 plików.
+Skopiowano 0 katalogów.
+Skopiowano 500 plików.
+Usuniête zosta³y 2 foldery w katalogu docelowym.
+Usuniête zosta³y 0 pliki w katalogu docelowym.
+
+------------------------------------------
+Wybór (b) - Nadpisz wszystkie
+==========================================
+Skanujê ...
+
+------------------------------------------
+G: (Toshiba-3TB) - katalog Ÿród³owy:
+- 35 katalogów
+- 4500 plików 
+
+H: (ADATA HD720) - katalog docelowy
+- 37 katalogów
+- 4000 plików 
+
+SYMULACJA wykonania operacji:
+Nadpisane zosta³o 35 katalogów.
+Nadpisane zosta³o 4000 plików.
+Skopiowano 0 katalogów.
+Skopiowano 500 plików.
+Usuniête zosta³y 2 foldery w katalogu docelowym.
+Usuniête zosta³y 0 pliki w katalogu docelowym.
+
+------------------------------------------
+Wybór (c) - Nadpisz starsze
+==========================================
+Skanujê ...
+
+------------------------------------------
+G: (Toshiba-3TB) - katalog Ÿród³owy:
+- 35 katalogów
+- 4500 plików 
+
+H: (ADATA HD720) - katalog docelowy
+- 37 katalogów
+- 4000 plików 
+
+SYMULACJA wykonania operacji:
+Nadpisane zosta³o 5 katalogów.
+Nadpisane zosta³o 200 plików.
+Skopiowano 0 katalogów.
+Skopiowano 500 plików.
+Usuniête zosta³y 2 foldery w katalogu docelowym.
+Usuniête zosta³y 0 pliki w katalogu docelowym.
+
+
+------------------------------------------
+Wybór (d) - Nadpisz je¿eli ró¿ni siê rozmiar
+==========================================
+Skanujê ...
+
+------------------------------------------
+G: (Toshiba-3TB) - katalog Ÿród³owy:
+- 35 katalogów
+- 4500 plików 
+
+H: (ADATA HD720) - katalog docelowy
+- 37 katalogów
+- 4000 plików 
+
+SYMULACJA wykonania operacji:
+Nadpisane zosta³o 2 katalogów.
+Nadpisane zosta³o 50 plików.
+Skopiowano 0 katalogów.
+Skopiowano 500 plików.
+Usuniête zosta³y 2 foldery w katalogu docelowym.
+Usuniête zosta³y 0 pliki w katalogu docelowym.

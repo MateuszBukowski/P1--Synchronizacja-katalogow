@@ -1,0 +1,198 @@
+Ekran 1  - g³ówny
+-----------------
+Witaj!
+Dostêpne dyski w systemie:
+C: (Local Disk)
+G: (Toshiba-3TB)
+H: (ADATA HD720) 
+
+Wybierz co chcesz zrobiæ:
+(1) SYMULACJA synchronizacji katalogów.
+(2) SYNCHRONIZACJA katalogów.
+1
+#Wybór (1) - SYMULACJA
+*******************************************************
+
+Ekran 2 - Wybór dysku zrodlowego
+-----------------------------------
+Wybierz dysk ZRODLOWY:
+(1) C: (Local Disk)
+(2) G: (Toshiba-3TB)
+(3) H: (ADATA HD720)
+3
+*******************************************************
+
+Ekran 2.1 - Wybór katalogu zrodlowego
+-------------------------------------
+Wybierz katalog ZRODLOWY:
+(z) - zatwierdz obecny katalog: H: (ADATA HD720)
+(0) ../
+(1) Archiwum
+(2) Backup
+(3) Biblioteka
+(4) Dokumenty
+(5) Dom
+(6) GameRoom
+(7) Notatnik
+(8) Pobrane
+(9) Programista
+(10) Prywatne
+(11) Publikacje
+(12) Pulpit
+(13) Software
+*******************************************************
+
+Ekran 3 - Wybór dysk docelowy
+-----------------------------------
+Wybierz dysk DOCELOWY:
+(1) C: (Local Disk)
+(2) G: (Toshiba-3TB)
+(3) H: (ADATA HD720)
+2
+*******************************************************
+
+Ekran 3.1 - Wybór katalogu docelowego
+-------------------------------------
+Wybierz katalog DOCELOWY:
+(z) - zatwierdz obecny katalog: G: (Toshiba-3TB)
+(0) ../
+(1) Archiwum
+(2) Backup
+(3) Biblioteka
+(4) Dokumenty
+(5) Dom
+(6) GameRoom
+(7) Notatnik
+(8) Pobrane
+(9) Programista
+(10) Prywatne
+(11) Publikacje
+(12) Pulpit
+(13) Software
+*******************************************************
+
+Ekran 4 - informacja i potwierdzenia wyboru
+---------------------------------------------
+Wybra³e¶ katalog ZRODLOWY:
+H:/Archiwum
+
+Wybra³e¶ katalog DOCELOWY:
+G:/Archiwum
+
+Przejdz do SYMULACJI lub Anuluj (T/a)
+t
+*******************************************************
+
+Ekran 5 - wybor dzialania z plikami docelowymi
+----------------------------------------------
+Wybierz co symulowaæ z istniejacymi docelowymi plikami:
+(a) Pomiñ wszystkie 
+(b) Nadpisz wszystkie
+(c) Nadpisz starsze
+(d) Nadpisz je¿eli ró¿ni siê rozmiar
+*******************************************************
+
+Ekran 6 - Wybór (a) - Pomiñ wszystkie
+-------------------------------------
+Skanujê ...
+
+-------------------------------------------------
+H:/Archiwum - katalog zród³owy:
+- 35 katalogów
+- 4500 plików 
+
+G:/Archiwum- katalog docelowy
+- 37 katalogów
+- 4000 plików 
+
+SYMULACJA wykonania operacji:
+Pominiete zosta³o kopiowanie 35 katalogów.
+Pominiete zosta³o kopiowanie 4000 plików.
+Skopiowano 0 katalogów.
+Skopiowano 500 plików.
+Usuniête zosta³y 2 foldery w katalogu docelowym.
+Usuniête zosta³y 0 pliki w katalogu docelowym.
+-------------------------------------------------
+
+(m) - Menu glowne.
+(z) - Zakoncz program.
+*******************************************************
+
+Ekran 6 - Wybór (b) - Nadpisz wszystkie
+---------------------------------------
+Skanujê ...
+
+-------------------------------------------------
+H:/Archiwum - katalog zród³owy:
+- 35 katalogów
+- 4500 plików 
+
+G:/Archiwum- katalog docelowy
+- 37 katalogów
+- 4000 plików 
+
+SYMULACJA wykonania operacji:
+Nadpisane zosta³o 35 katalogów.
+Nadpisane zosta³o 4000 plików.
+Skopiowano 0 katalogów.
+Skopiowano 500 plików.
+Usuniête zosta³y 2 foldery w katalogu docelowym.
+Usuniête zosta³y 0 pliki w katalogu docelowym.
+-------------------------------------------------
+
+(m) - Menu glowne.
+(z) - Zakoncz program.
+*******************************************************
+
+Ekran 6 - Wybór (c) - Nadpisz starsze
+-------------------------------------
+Skanujê ...
+
+-------------------------------------------------
+H:/Archiwum - katalog zród³owy:
+- 35 katalogów
+- 4500 plików 
+
+G:/Archiwum- katalog docelowy
+- 37 katalogów
+- 4000 plików 
+
+SYMULACJA wykonania operacji:
+Nadpisane zosta³o 5 katalogów.
+Nadpisane zosta³o 200 plików.
+Skopiowano 0 katalogów.
+Skopiowano 500 plików.
+Usuniête zosta³y 2 foldery w katalogu docelowym.
+Usuniête zosta³y 0 pliki w katalogu docelowym.
+-------------------------------------------------
+
+(m) - Menu glowne.
+(z) - Zakoncz program.
+*******************************************************
+
+Ekran 6 - Wybór (d) - Nadpisz je¿eli ró¿ni siê rozmiar
+------------------------------------------------------
+Skanujê ...
+
+-------------------------------------------------
+H:/Archiwum - katalog zród³owy:
+- 35 katalogów
+- 4500 plików 
+
+G:/Archiwum- katalog docelowy
+- 37 katalogów
+- 4000 plików 
+
+SYMULACJA wykonania operacji:
+Nadpisane zosta³o 2 katalogów.
+Nadpisane zosta³o 50 plików.
+Skopiowano 0 katalogów.
+Skopiowano 500 plików.
+Usuniête zosta³y 2 foldery w katalogu docelowym.
+Usuniête zosta³y 0 pliki w katalogu docelowym.
+-------------------------------------------------
+
+(m) - Menu glowne.
+(z) - Zakoncz program.
+*********************************************
+

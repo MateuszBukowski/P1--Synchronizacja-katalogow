@@ -1,0 +1,40 @@
+##################################
+# Sprawdzenie katalogów i plików #
+##################################
+
+# Otwórz plik tekstowy z scieżkami source i destination.
+# Zapisz s: do zmiennej (lub tablicy)
+# Zapis d: do zmiennej (lub tablicy)
+# Zamień stringa zmiennej z pliku na scieżkę dostępu
+# Sprawdź i wypisz wielkość katalogu s: i jego podkatalogów i plików
+# Sprawdź i wypisz wielkość katalogu d: i jego podkatalogów i plików
+# Sprawdź i wypisz ilość plików w katalogu s:
+# Sprawdź i wypisz ilość plików w katalogu d:
+Sprawdź i wypisz ilość podkatalogów w katalogu s:
+Sprawdź i wypisz ilość podkatalogów w katalogu d:
+# Sprawdź i wypisz datę modyfikacji katalogu s:
+# Sprawdź i wypisz datę modyfikacji katalogu d:
+# Zmień format daty na ludzki
+# Porównaj i wypisz różnice lub brak różnicy w wielkości katalogu s: i d:
+# Porównaj i wypisz różnice lub brak różnicy w ilośi plików w katakogu s: i d:
+Porównaj i wypisz różnice lub brak różnicy w ilośi katalogów w katakogu s: i d:
+# Porównaj i wypisz różnice lub brak różnicy w dacie modyfikacji katalogu s: i d:
+
+Przerobić wszystko na funkcje.
+Obsługa błędów
+Umieszczenie testów w programie
+Dopieścić
+
+Tu koniec na początek!
+
+#################################################################################
+
+#####################
+# Kopiowanie plików #
+#####################
+
+Otwórz plik tekstowy z scieżkami source i destination.
+Zapisz s: do zmiennej (lub tablicy) 
+Zapis d: do zmiennej (lub tablicy)
+
+#################################################################################
