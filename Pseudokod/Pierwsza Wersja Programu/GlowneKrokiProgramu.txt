@@ -1,0 +1,9 @@
+1. Wykonaj operacje inicjujące.
+2. Pobierz ścieżkę źródłową z pliku dirConf.txt i zapisz do zmiennej.
+3. Pobierz ścieżkę docelową z pliku dirConf.txt i zapisz do zmiennej.
+4. Pobierz ścieżki katalogów chronionych z pliku neverDelete.txt i zapisz do tablicy/słownika.
+5. Wyświetl powyższe dane na temat katalogów źródłowego, doceloweg i chronionych.
+6. Wyświetl menu i zapytaj użytkownika jaką operację wykonać? Por/Sync/Symul
+7. Wykonaj wybraną operację.
+8. Zapytaj czy zakończyć działanie programu czy przejść do głównego menu.
+ 

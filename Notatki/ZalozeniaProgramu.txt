@@ -17,6 +17,8 @@
 
 6. Obsługa zapisanych profili backupu np. dla zdjęć, filmów, notatek z telefonów itd.
 
+7. Obsługa przeładowania plków konfiguracjynego z katalogami.
+
 -----------------------------------------------------------------------
 Wersja pierwsza programu ma obslużyć:
 1. Pobranie ścieżek katalogu źródłowego i docelowego z pliku txt.
