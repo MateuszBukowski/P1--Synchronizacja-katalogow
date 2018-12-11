@@ -1,6 +1,9 @@
-Jak wyczyœciæ ekran konsoli w python?
+Jak wyczyscic ekran konsoli w python?
+- 
+
 **************************************
-Jak wybraæ katalog z i d ?
+Jak wybrac katalog z i d ?
+
 1
 2
 3
@@ -15,4 +18,5 @@ z - zatwierdz obecny
 2
 3
 ***************************************
+
 
