@@ -4,6 +4,7 @@ Witaj!
 Wybierz co chcesz zrobiæ:
 (1) SYMULACJA synchronizacji katalogów.
 (2) SYNCHRONIZACJA katalogów.
+(3) PORÃ“WNAJ katalogi.
 
 *********************************************
 

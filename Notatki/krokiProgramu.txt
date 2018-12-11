@@ -1,3 +1,5 @@
+To jest STARY plik!!!
+
 ##################################
 # Sprawdzenie katalogów i plików #
 ##################################
