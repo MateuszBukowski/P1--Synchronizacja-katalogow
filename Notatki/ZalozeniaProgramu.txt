@@ -1,3 +1,25 @@
 1. Program ma służyć do synchronizacji i backupu katalogów i plików.
-2. Ma umożliwić synchronizację, symulację synchronizacji oraz porównanie wskazanych katalogów.
+
+2. Ma umożliwić:
+- synchronizację,
+- symulację synchronizacji,
+- porównanie wskazanych katalogów.
+
+3. W pierwszej wersji ma pobierać ścieżki katalogów z pliku.
+   Później można się zastanowić nad interfejsem z poziomu programu.
+
+4. Ma obsługiać wykluczenia podkatalogów.
+   Z osobnego pliku o nazwie np. NeverDelete.txt
+
+5. Można go używać do synchronizacji notatek przez neta.
+   Za pomocą podmapowanego w vpn katalogu smb lub windows.
+   Notatki nie ważą dużo i można je przez neta puszczać.
+
+6. Obsługa zapisanych profili backupu np. dla zdjęć, filmów, notatek z telefonów itd.
+
+-----------------------------------------------------------------------
+Wersja pierwsza programu ma obslużyć:
+1. Pobranie ścieżek katalogu źródłowego i docelowego z pliku txt.
+2. Pobranie wykluczonych i chronionych katalogów z drugiego pliku txt.
+3. Obsługa Porównania, symulacji oraz synchronizacji katalogów.
 
