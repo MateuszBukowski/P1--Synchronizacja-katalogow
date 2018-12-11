@@ -1,0 +1,17 @@
+************************************************************
+* Katalog ŹRÓDŁOWY:                                        *
+* D:/                                                      *
+*                                                          *
+* Katalog DOCELOWY:                                        *
+* E:/                                                      *
+*                                                          *
+* Katalogi wykluczone z synchronizacji:                    *
+* E:/Filmy                                                 *
+*                                                          *
+************************************************************
+
+Wybierz operację do wykonania:
+(1) PORÓWNAJ wybrane katalogi.
+(2) Wykonaj SYMULACJĘ synchronizacji wybranych katalogów.
+(3) Wykonaj SYNCHRONIZACJĘ wybranych katalogów.
+
