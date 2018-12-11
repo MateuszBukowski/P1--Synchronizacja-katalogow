@@ -1,0 +1,3 @@
+Zapisać jako funkcję menu ?
+Czy mumieścić je w głównej pętli programu ?
+
