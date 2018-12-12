@@ -1,3 +1,28 @@
-Zapisać jako funkcję menu ?
-Czy mumieścić je w głównej pętli programu ?
+Menu Główne - Główna pętla programu.
+=====================================
+
+Source = 0
+Destination = 0
+neverDelete = []
+wyborGlowny = 0
+
+While true
+    Odczytaj plik dirConf.txt
+    Zapisz katalog źródłowy do zmiennej Source
+    Zapisz katalog docelowy do zmiennej Destination
+    Odczytaj plik neverDelete.txt
+    Zapisz katalogi wykluczone do zmiennej neverDelete	
+    
+    Wyświtl dane na temat katalogów
+    Wyświetl menu wyboru operacji
+    Pobierz wybór użytkownika do zmiennej wyborGlowny
+
+    If wyborGlowny = 1
+        porownanie()
+    Elif wyborGlowny =2
+        symuluacja()
+    Elif wyburGlowny = 3
+        synchronizacja()
+    Else
+        print("Nie ma takiej opcji, wybierz jeszcze raz")
 
